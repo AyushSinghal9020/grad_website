@@ -4,7 +4,7 @@ import streamlit as st
 import os 
 
 try : 
-    client = Client('https://a7098026b54f67e003.gradio.live/')
+    client = Client('https://b2a4d91f6ac46a3c3a.gradio.live/')
 
     def check_prompt(prompt) : 
 
